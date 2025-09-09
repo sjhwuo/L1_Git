@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Название: Breaking Bad 
-Описание: Учитель химии начинает производить метамфетамин 
-=======
-Название: Мультфильм 
-Описание: Неинтересный мультфильм 
->>>>>>> unlikedFilm
+"Title: Insidious" 
+"Description: A family discovers that dark spirits have invaded their home after their son enters a comatose state." 
+"Year: 2010" 
+"Main Actor: Patrick Wilson" 
