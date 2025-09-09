@@ -1,4 +1,1 @@
-"Title: Insidious" 
-"Description: A family discovers that dark spirits have invaded their home after their son enters a comatose state." 
-"Year: 2010" 
-"Main Actor: Patrick Wilson" 
+Title: InsidiousDescription: A family discovers that dark spirits have invaded their home after their son enters a comatose state.Year: 2010Main Actor: Patrick Wilson

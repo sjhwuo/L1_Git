@@ -1,4 +1,4 @@
-"Title: Boring Short Film" 
-"Description: This short film had poor pacing and unclear storyline." 
-"Year: 2022" 
-"Main Actor: Unknown Actor" 
+Title: Boring Short Film 
+Description: This short film had poor pacing and unclear storyline. 
+Year: 2022 
+Main Actor: Unknown Actor 
